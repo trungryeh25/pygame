@@ -1,6 +1,6 @@
 # pygame
 
-Practice dev skills with Python language
+Practice minigame
 
 ex1. clock
 
